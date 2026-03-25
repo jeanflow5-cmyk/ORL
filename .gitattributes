@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Anatomia[[:space:]]de[[:space:]]las[[:space:]]Arterias[[:space:]]de[[:space:]]la[[:space:]]Cabeza_booksmedicos.org.pdf filter=lfs diff=lfs merge=lfs -text
+Anatomiarteriascabeza.pdf filter=lfs diff=lfs merge=lfs -text
+Cirugia[[:space:]]y[[:space:]]Oncologia[[:space:]]de[[:space:]]Cabeza[[:space:]]y[[:space:]]Cuello[[:space:]]Shah_booksmedicos.orgpdf filter=lfs diff=lfs merge=lfs -text
+Cirugia[[:space:]]y[[:space:]]Oncologia[[:space:]]de[[:space:]]Cabeza[[:space:]]y[[:space:]]Cuello[[:space:]]Shah_booksmedicos.org.pdf filter=lfs diff=lfs merge=lfs -text
+Manual[[:space:]]de[[:space:]]Otorrinolaringologia[[:space:]]Clinica_booksmedicos.org.pdf filter=lfs diff=lfs merge=lfs -text
+Otologia[[:space:]]-[[:space:]]Gil[[:space:]]Carcedo.pdf filter=lfs diff=lfs merge=lfs -text
+otorrinolaringologia_quirurgica_cirugia_de_cabeza_y_cuello_myers_2°[[:space:]]vol[[:space:]]1[[:space:]]&[[:space:]]2[[:space:]]siempre-medicina.com.pdf filter=lfs diff=lfs merge=lfs -text
+Suarez[[:space:]]tomo[[:space:]]3.pdf filter=lfs diff=lfs merge=lfs -text
